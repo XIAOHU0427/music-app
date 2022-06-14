@@ -1,11 +1,3 @@
-### 前言
-
-肝代码不易，若是在网上发表请标明出处，另外请路过的朋友们随手点个Star。本项目仅用于学习。 
-
-- [English](README_EN.md)
-
-[Github地址](https://github.com/daoshengfu/Vue-NeteaseCloud-WebMusicApp)&nbsp;&nbsp;&nbsp;&nbsp;[Gitee地址](https://gitee.com/fudaosheng/Vue-NeteaseCloud-WebMusicApp)
-
 ### 项目介绍
 
 项目参考于网易云音乐PC版app，基本实现官方音乐播放、MV播放所有功能
@@ -51,14 +43,6 @@
     2.2. cnpm install
 
     2.3. npm run serve
-
-
-#### 问题交流群
-
-欢迎加群一起讨论，第一个群已满，请加二群
-
-|<img src="https://images.gitee.com/uploads/images/2020/0915/095720_2490a5ae_7602838.jpeg" style="width: 150px" />|<img src="src/assets/img/qrcode.png" style="width: 150px" />|
-|---|---|
 
 ### 项目效果预览
 
