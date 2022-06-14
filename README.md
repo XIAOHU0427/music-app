@@ -87,6 +87,4 @@
 |热搜列表  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/020400_1de6b893_7602838.png "屏幕截图.png") | 搜索建议 ![](https://images.gitee.com/uploads/images/2021/0220/020436_e04c6aec_7602838.png "屏幕截图.png")  |搜索详情  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/020512_2b796716_7602838.png "屏幕截图.png") |
 |---|---|---|
 
-#### 其他
 
-其他页面效果请参考version1分支，因为上传图片要求不能超过2M，太麻烦我就不一一上传了
